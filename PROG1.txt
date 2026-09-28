@@ -8,5 +8,7 @@ Armario- https://dle.rae.es/armario?m=form
 Ciudad- https://dle.rae.es/ciudad?m=form
 Alegría- https://dle.rae.es/alegr%C3%ADa
 Afecto- https://dle.rae.es/afecto?m=form
+10. memoria - https://dle.rae.es/memoria
+11. red - https://dle.rae.es/red
 
 
